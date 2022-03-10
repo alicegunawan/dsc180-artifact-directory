@@ -1,0 +1,7 @@
+{
+    "this-repository": "https://github.com/alicegunawan/dsc180-artifact-directory.git",
+    "project-repository": "https://github.com/dhaar-data/DSC180B-project.git",
+    "dockerhub-repository": "dhython/dsc180b-project-docker:latest",
+    "project-website-url": "https://dhaar-data.github.io/DSC180B-project/",
+    "project-website-code": "https://github.com/dhaar-data/DSC180B-project.git"
+}
